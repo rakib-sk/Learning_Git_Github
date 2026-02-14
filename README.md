@@ -44,4 +44,18 @@
 - git checkout -b <new branch name>  ->
 - git branch -d <branch name> -> 
 
-## Hello
+## Marge Code
+### Way 1
+- git diff
+- git merge
+
+### Way2
+- Create a PR
+
+
+## pull command
+- git pull origin main
+
+
+## merge conflig 
+
