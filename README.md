@@ -56,9 +56,6 @@
 ## pull command
 - git pull origin main
 
-<<<<<<< HEAD
-=======
 
-## merge conflig 
+## Reslove merge conflig 
 
->>>>>>> main
