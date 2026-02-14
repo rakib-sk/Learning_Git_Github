@@ -56,3 +56,9 @@
 ## pull command
 - git pull origin main
 
+<<<<<<< HEAD
+=======
+
+## merge conflig 
+
+>>>>>>> main
